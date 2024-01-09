@@ -1,2 +1,2 @@
-bg_s = pygame.mixer.Sound('мелодия звуковой анимации.mp3')
-bg_s.play()
+music = pygame.mixer.Sound('мелодия звуковой анимации.mp3')
+music.play()
