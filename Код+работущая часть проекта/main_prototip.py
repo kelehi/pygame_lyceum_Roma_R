@@ -22,7 +22,7 @@ y = 650
 x1 = 0
 #  n = pygame.image.load('images/future-city-art-cyberpunk-neon-3 — копия (2).webp').convert()
 pygame.display.set_caption('pygame')
-icon = pygame.image.load('images/2706092 — копия.png').convert_alpha()
+icon = pygame.image.load('2706092 — копия.png').convert_alpha()
 pygame.display.set_icon(icon)
 count = 0
 #list_left = [
@@ -38,7 +38,7 @@ count = 0
 #    pygame.image.load('images/drakon-/дракончики33.png').convert_alpha(),
 #    pygame.image.load('images/drakon-/дракончики11.png').convert_alpha(),
 #]
-fon = pygame.image.load('1613237918_194-p-fon-dlya-intro-gacha-sinii-255.jpg').convert()
+# fon = pygame.image.load('1613237918_194-p-fon-dlya-intro-gacha-sinii-255.jpg').convert()
 musik = pygame.mixer.Sound('мелодия звуковой анимации.mp3')
 musik.play()
 
